@@ -13,6 +13,10 @@ Algorithms covered (so far):
 
 5. **K-Nearest Neighbors (KNN)**: A non-parametric algorithm used for classification and regression by finding the majority class among the k nearest data points.
 
+6. **Gradient Boosting Machines (GBM)**: An ensemble learning technique that builds multiple weak learners sequentially, each correcting the errors of its predecessor.
+
+7. **Neural Networks (Deep Learning)**: A computational model inspired by the structure and functioning of the human brain, consisting of interconnected layers of nodes that perform mathematical operations.
+
 ## Unsupervised Learning:
 
 1. **K-Means Clustering**: An unsupervised learning algorithm that partitions data into clusters based on similarity, aiming to minimize the within-cluster sum of squares.
