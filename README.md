@@ -1,4 +1,4 @@
-Hello and welcome to my machine-learning portfolio. This is a complete collection of my projects and academic work.
+Hello and welcome to my machine-learning portfolio. This is a complete collection of my projects and academic work in R and Python.
 Algorithms covered (so far):
 
 ## Supervised Learning:
